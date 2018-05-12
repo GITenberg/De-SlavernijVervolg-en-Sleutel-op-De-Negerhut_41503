@@ -1,0 +1,36 @@
+_repo: De-SlavernijVervolg-en-Sleutel-op-De-Negerhut_41503
+_version: 0.1.0
+alternative_title: A key to Uncle Tom's Cabin. Dutch
+covers:
+- cover_type: archival
+  image_path: 41503-h/images/new-cover.jpg
+creator:
+  author:
+    agent_name: Stowe, Harriet Beecher
+    aliases:
+    - Stowe, H. B. (Harriet Beecher)
+    - Crowfield, Christopher
+    - Stowe, Harriet Elizabeth Beecher
+    birthdate: 1811
+    deathdate: 1896
+    gutenberg_agent_id: '115'
+    url: http://www.gutenberg.org/2009/agents/115
+    wikipedia: http://en.wikipedia.org/wiki/Harriet_Beecher_Stowe
+description: ''
+gutenberg_issued: '2012-11-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41503'
+language: nl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Literature and society -- United States -- History -- 19th century'
+- !lcsh 'Slaves -- United States -- Social conditions'
+- !lcsh 'Stowe, Harriet Beecher, 1811-1896. Uncle Tom''s cabin -- Sources'
+- !lcc 'PS'
+- !lcsh 'Political fiction -- Sources'
+- !lcsh 'Uncle Tom (Fictitious character)'
+title: 'De Slavernij: Vervolg en Sleutel op De Negerhut'
+url: http://www.gutenberg.org/ebooks/41503
